@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Raider Directory</string>
+    <string name="raiders_info">Raiders Info</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="menu">Menu</string>
+    <string name="raiders_description">Hello Fans! We here at the Las Vegas Raiders are here to answer any questions you have. Please feel feel to contact us with any questions or concerns. Thanks!</string>
+
+    <string-array name="players">
+        <item>Derek Carr</item>
+        <item>Josh Jacobs</item>
+        <item>Darren Waller</item>
+        <item>Johnathon Abram</item>
+        <item>Maxx Crosby</item>
+    </string-array>
+
+    <string-array name="positions">
+        <item>Quarterback</item>
+        <item>Running Back</item>
+        <item>Tight End</item>
+        <item>Safety</item>
+        <item>Defensive End</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>Derek Carr #4 is the Quarterback of the LV Raiders. He is 29 years old, and was drafted in 2014 from Fresno St. </item>
+        <item>Josh Jacobs #28 is a Running Back of the LV Raiders. He is 23 years old, and was drafted in 2019 from Alabama.</item>
+        <item>Darren Waller #83 is a Tight End of the LV Raiders. He is 28 years old, and was drafted in 2015 from Georgia Tech.</item>
+        <item>Johnathon Abram #24 is a Safety of the LV Raiders. He is 24 years old, and was drafted in 2019  from Mississippi St.</item>
+        <item>Maxx Crosby #98 is a Defensive End of the LV Raiders. He 23 is years old, and was drafted in 2019 from Eastern Michigan</item>
+
+
+    </string-array>
+
+</resources>
